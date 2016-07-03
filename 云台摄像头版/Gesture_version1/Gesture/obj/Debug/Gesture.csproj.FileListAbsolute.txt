@@ -1,0 +1,17 @@
+C:\迅雷下载\Gesture\Gesture\obj\Debug\Gesture.exe
+C:\迅雷下载\Gesture\Gesture\obj\Debug\Gesture.pdb
+C:\迅雷下载\Gesture\Gesture\bin\Debug\Gesture.exe
+C:\迅雷下载\Gesture\Gesture\bin\Debug\Gesture.pdb
+C:\迅雷下载\Gesture\Gesture\bin\Debug\AForge.Math.dll
+C:\迅雷下载\Gesture\Gesture\obj\Debug\Gesture.csprojResolveAssemblyReference.cache
+C:\迅雷下载\Gesture\Gesture\obj\Debug\Gesture.DetectedObjectsForm.resources
+C:\迅雷下载\Gesture\Gesture\obj\Debug\Gesture.MainForm.resources
+C:\迅雷下载\Gesture\Gesture\obj\Debug\Gesture.Properties.Resources.resources
+C:\迅雷下载\Gesture\Gesture\obj\Debug\Gesture.TuneObjectFilterForm.resources
+C:\迅雷下载\Gesture\Gesture\obj\Debug\Gesture.csproj.GenerateResource.Cache
+D:\预参赛作品\物体追踪\代码\Gesture\Gesture\obj\Debug\Gesture.exe
+D:\预参赛作品\物体追踪\代码\Gesture\Gesture\obj\Debug\Gesture.pdb
+D:\预参赛作品\物体追踪\代码\PC摄像头版\Gesture\Gesture\obj\Debug\Gesture.exe
+D:\预参赛作品\物体追踪\代码\PC摄像头版\Gesture\Gesture\obj\Debug\Gesture.pdb
+D:\预参赛作品\物体追踪\代码\云台摄像头版\Gesture\Gesture\obj\Debug\Gesture.exe
+D:\预参赛作品\物体追踪\代码\云台摄像头版\Gesture\Gesture\obj\Debug\Gesture.pdb

@@ -1,0 +1,13 @@
+D:\预参赛作品\物体追踪\代码\云台摄像头版\Gesture\Gesture\obj\Debug\Gesture.exe
+D:\预参赛作品\物体追踪\代码\云台摄像头版\Gesture\Gesture\obj\Debug\Gesture.pdb
+D:\预参赛作品\物体追踪\代码\云台摄像头版\Gesture\Gesture\bin\Debug\Gesture.exe
+D:\预参赛作品\物体追踪\代码\云台摄像头版\Gesture\Gesture\bin\Debug\Gesture.pdb
+D:\预参赛作品\物体追踪\代码\云台摄像头版\Gesture\Gesture\bin\Debug\AForge.Video.FFMPEG.dll
+D:\预参赛作品\物体追踪\代码\云台摄像头版\Gesture\Gesture\bin\Debug\AForge.Math.dll
+D:\预参赛作品\物体追踪\代码\云台摄像头版\Gesture\Gesture\bin\Debug\AForge.Video.FFMPEG.xml
+D:\预参赛作品\物体追踪\代码\云台摄像头版\Gesture\Gesture\obj\Debug\云台摄像头跟随.csprojResolveAssemblyReference.cache
+D:\预参赛作品\物体追踪\代码\云台摄像头版\Gesture\Gesture\obj\Debug\Gesture.DetectedObjectsForm.resources
+D:\预参赛作品\物体追踪\代码\云台摄像头版\Gesture\Gesture\obj\Debug\Gesture.MainForm.resources
+D:\预参赛作品\物体追踪\代码\云台摄像头版\Gesture\Gesture\obj\Debug\Gesture.Properties.Resources.resources
+D:\预参赛作品\物体追踪\代码\云台摄像头版\Gesture\Gesture\obj\Debug\Gesture.TuneObjectFilterForm.resources
+D:\预参赛作品\物体追踪\代码\云台摄像头版\Gesture\Gesture\obj\Debug\云台摄像头跟随.csproj.GenerateResource.Cache
